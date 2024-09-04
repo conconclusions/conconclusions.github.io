@@ -1,0 +1,30 @@
+/* Reset some default styles */
+* {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* Header styles */
+header {
+  padding: 10px;
+  text-align: center;
+}
+
+/* Main content styles */
+main {
+  padding: 10px;
+}
+
+footer {
+  padding: 10px;
+  text-align: center;
+}
